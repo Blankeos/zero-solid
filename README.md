@@ -4,7 +4,7 @@
 
 1. Only use `npm`, not bun or pnpm: https://bugs.rocicorp.dev/issue/3292.
 
-- Though one way to use Bun is to add trusted
+- Though one way to use Bun is to add trustedDependencies with the `"@rocicorp/zero-sqlite3"`
 
 2. It's nice, very fast.
 3. The folder structure is not ideal for me.
